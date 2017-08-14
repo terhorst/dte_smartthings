@@ -21,7 +21,7 @@ preferences {
 }
 
 metadata {
-	definition (name: "DTE Insight", namespace: "terhorst", author: "terhorst@gmail.com") {
+	definition (name: "DTE Energy Bridge", namespace: "terhorst", author: "terhorst@gmail.com") {
 		capability "Energy Meter"
 		capability "Power Meter"
 		capability "Refresh"
