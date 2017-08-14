@@ -13,6 +13,7 @@
  *
  */
  
+// Includes HTTP code from the AirScape WHF device handler.
  
 preferences {
         input(name: "ip", type:"string", title:"IP", description: "IP of sensor", defaultValue: "111.222.333.444" , required: true, displayDuringSetup: true)
